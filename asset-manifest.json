@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Dressing-Room-React-Redux/static/css/main.db8b3367.chunk.css",
+    "main.js": "/Dressing-Room-React-Redux/static/js/main.9dafddbc.chunk.js",
+    "main.js.map": "/Dressing-Room-React-Redux/static/js/main.9dafddbc.chunk.js.map",
+    "runtime-main.js": "/Dressing-Room-React-Redux/static/js/runtime-main.49daa347.js",
+    "runtime-main.js.map": "/Dressing-Room-React-Redux/static/js/runtime-main.49daa347.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/Dressing-Room-React-Redux/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.10a28db3.chunk.js": "/Dressing-Room-React-Redux/static/js/2.10a28db3.chunk.js",
+    "static/js/2.10a28db3.chunk.js.map": "/Dressing-Room-React-Redux/static/js/2.10a28db3.chunk.js.map",
+    "index.html": "/Dressing-Room-React-Redux/index.html",
+    "precache-manifest.28f2c912ca05161a3fa9ad4fb4a92fbc.js": "/Dressing-Room-React-Redux/precache-manifest.28f2c912ca05161a3fa9ad4fb4a92fbc.js",
+    "service-worker.js": "/Dressing-Room-React-Redux/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/Dressing-Room-React-Redux/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.db8b3367.chunk.css.map": "/Dressing-Room-React-Redux/static/css/main.db8b3367.chunk.css.map",
+    "static/js/2.10a28db3.chunk.js.LICENSE.txt": "/Dressing-Room-React-Redux/static/js/2.10a28db3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49daa347.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.10a28db3.chunk.js",
+    "static/css/main.db8b3367.chunk.css",
+    "static/js/main.9dafddbc.chunk.js"
+  ]
+}
